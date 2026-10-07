@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Ahmed Ali 👋
 
-<!--
-**ahmedali-dev7/ahmedali-dev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Artificial Intelligence & Machine Learning Engineering student interested in software development, artificial intelligence, and building practical applications.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 AIML Engineering Student
+- 💻 Developing my programming and software engineering fundamentals
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🌐 Interested in Web and Mobile Development
+- 🛠️ Learning by building practical projects
+
+## Currently Learning
+
+- Python
+- C
+- Java
+- JavaScript
+- Git & GitHub
+- Web Development
+- Artificial Intelligence & Machine Learning
+
+## Areas of Interest
+
+- Artificial Intelligence & Machine Learning
+- Software Development
+- Web Development
+- Mobile Application Development
+- Problem Solving
+
+## Connect
+
+- 📧 Email: [ahmedali.dev7@gmail.com](mailto:ahmedali.dev7@gmail.com)
